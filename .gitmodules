@@ -4,3 +4,6 @@
 [submodule "store/submodule3"]
 	path = store/submodule3
 	url = https://github.com/smebdi/git-submodule-example-3.git
+[submodule "store/submodule4"]
+	path = store/submodule4
+	url = https://github.com/smebdi/git-submodule-example-4.git
